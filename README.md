@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Cyberknight-89/cyberknight-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cyberknight-89/cyberknight-89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: i'm new to this and mostly self taught
--->
+
