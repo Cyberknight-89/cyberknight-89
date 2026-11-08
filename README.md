@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on projects anything so i can improve my skills
 - 🤔 I’m looking for help with my personal bleach brave souls project
 - 💬 Ask me about my favorite football team (soccer), my fav anime. fav game...
-- 📫 How to reach me: rand.ompicturesdaily ( on instagram)
+- 📫 How to reach me: best_quint_goat ( on instagram)
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: i'm new to this and mostly self taught
 
